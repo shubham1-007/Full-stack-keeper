@@ -55,5 +55,5 @@ app.get("/api",function(req,res){
 const port=7000
 app.listen(port,function(){
 
-    console.log("server is running and up my darling 💕 on the port"+port);
+    console.log("server is running and up my darling 💕 the port"+port);
 })
